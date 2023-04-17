@@ -10,5 +10,16 @@ Página web para o projeto "Construa um game" feito na Universidade Nove de Julh
 ```
 # Instalando o framework Entity para acesso a banco de dados:
 dotnet tool install --global dotnet-ef
+
+# Verificar a instalação:
+dotnet tool list -g
+
+ID do Pacote      Versão      Comandos 
+---------------------------------------
+dotnet-ef         7.0.5       dotnet-ef
+
+
+# Caso haja erro ao executar o comando dotnet-ef é necessário exportar o $PATH:
+export PATH="$PATH:$HOME/.dotnet/tools/"
 ```
 
