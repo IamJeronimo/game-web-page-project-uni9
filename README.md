@@ -3,7 +3,8 @@ Página web para o projeto "Construa um game" feito na Universidade Nove de Julh
 
 ### Baixar as ferramentas necessárias para o desenvolvimento em NET
 [Repo MS Ubuntu 20.04](https://learn.microsoft.com/en-us/dotnet/core/install/linux-ubuntu-2004)
-+
+
+---
 
 [Doc Entity Framework Core](https://learn.microsoft.com/pt-br/ef/core/)
 ```
