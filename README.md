@@ -23,3 +23,4 @@ dotnet-ef         7.0.5       dotnet-ef
 export PATH="$PATH:$HOME/.dotnet/tools/"
 ```
 
+teste
